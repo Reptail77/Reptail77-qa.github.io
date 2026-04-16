@@ -1,2 +1,2 @@
-# Reptail77-qa.github.io
-Сайт визитка HTLL,CSS
+# cv_test
+Сайт-визика на HTML + CSS + JS
